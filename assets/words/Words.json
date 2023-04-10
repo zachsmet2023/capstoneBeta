@@ -1,0 +1,11 @@
+{
+    "catONE": [
+      "apple", "banana", "cherry", "grape", "kiwi", "lemon",
+      "mango", "orange", "papaya", "peach", "pear", "pineapple", "plum", "raspberry", "strawberry"
+    ],
+    "catTWO": [
+      "artichoke", "asparagus", "bean", "broccoli", "cabbage", "carrot",
+      "cauliflower", "celery", "cucumber", "eggplant", "garlic", "kale", "lettuce", "onion", "pepper"
+    ]
+  }
+  
